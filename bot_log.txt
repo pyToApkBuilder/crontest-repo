@@ -1,1 +1,134 @@
 
+05-05 19:12 Next: [ 20 : 12 ] 05-05 =>
+New LONG: AARTIIND at price 451.9 rsi 72.61
+
+New LONG: ADANIENT at price 2465.4 rsi 66.55
+
+New LONG: ADANIGREEN at price 970 rsi 62.7
+
+New LONG: ADANIPORTS at price 1347 rsi 73.96
+
+New LONG: ATGL at price 667.5 rsi 72.18
+
+New LONG: ANGELONE at price 2388.1 rsi 62.65
+
+New LONG: APOLLOTYRE at price 488.15 rsi 65.94
+
+New SHORT: DMART at price 4019.9 rsi 32.11
+
+New LONG: BALKRISIND at price 2695.1 rsi 60.42
+
+New LONG: BPCL at price 321.45 rsi 62.0
+
+New LONG: BIOCON at price 336 rsi 73.56
+
+New LONG: BOSCHLTD at price 30350 rsi 69.97
+
+New LONG: CESC at price 165.16 rsi 67.23
+
+New LONG: CHOLAFIN at price 1555 rsi 69.79
+
+New SHORT: CAMS at price 3809 rsi 32.91
+
+New LONG: DLF at price 692.65 rsi 62.18
+
+New LONG: ETERNAL at price 240.1 rsi 64.36
+
+New LONG: GLENMARK at price 1407.5 rsi 62.33
+
+New LONG: HAL at price 4597 rsi 64.4
+
+New LONG: HINDPETRO at price 411.05 rsi 66.71
+
+New SHORT: HINDZINC at price 428.6 rsi 31.44
+
+New LONG: HUDCO at price 229.3 rsi 61.25
+
+New SHORT: IRB at price 45.67 rsi 39.54
+
+New LONG: ITC at price 437.5 rsi 66.14
+
+New LONG: IOC at price 148.65 rsi 75.24
+
+New LONG: IGL at price 206.31 rsi 76.21
+
+New SHORT: INDUSTOWER at price 383.8 rsi 38.52
+
+New LONG: INDIGO at price 5532.5 rsi 68.13
+
+New SHORT: JSWSTEEL at price 955.2 rsi 22.69
+
+New LONG: KEI at price 3230 rsi 74.41
+
+New LONG: KALYANKJIL at price 528.9 rsi 64.56
+
+New SHORT: KOTAKBANK at price 2085 rsi 28.47
+
+New LONG: LICI at price 817 rsi 63.24
+
+New LONG: MRF at price 136460 rsi 64.26
+
+New LONG: MGL at price 1406.4 rsi 68.63
+
+New LONG: M&M at price 3024 rsi 69.86
+
+New LONG: MARICO at price 726.35 rsi 61.14
+
+New LONG: MARUTI at price 12449 rsi 62.45
+
+New LONG: MAXHEALTH at price 1134 rsi 62.98
+
+New LONG: MUTHOOTFIN at price 2203.6 rsi 60.95
+
+New LONG: NCC at price 221.49 rsi 61.94
+
+New SHORT: NHPC at price 84.84 rsi 39.49
+
+New SHORT: NTPC at price 348.5 rsi 37.23
+
+New SHORT: NESTLEIND at price 2332.1 rsi 33.84
+
+New SHORT: ONGC at price 239.88 rsi 39.38
+
+New LONG: POLICYBZR at price 1673 rsi 66.73
+
+New LONG: PNBHOUSING at price 1061 rsi 63.58
+
+New LONG: PAGEIND at price 46085 rsi 63.75
+
+New SHORT: PATANJALI at price 1869 rsi 36.51
+
+New LONG: PERSISTENT at price 5532 rsi 63.55
+
+New LONG: PEL at price 1009 rsi 61.05
+
+New LONG: POLYCAB at price 5793 rsi 75.4
+
+New LONG: RELIANCE at price 1429.5 rsi 67.37
+
+New LONG: SBICARD at price 905.6 rsi 68.21
+
+New LONG: SBILIFE at price 1769 rsi 60.51
+
+New LONG: MOTHERSON at price 139.05 rsi 68.37
+
+New LONG: SONACOMS at price 508 rsi 68.63
+
+New SHORT: TITAGARH at price 734.2 rsi 29.35
+
+New LONG: TVSMOTOR at price 2780.3 rsi 62.9
+
+New SHORT: TITAN at price 3318.7 rsi 38.93
+
+New SHORT: TORNTPOWER at price 1479 rsi 37.29
+
+New LONG: TRENT at price 5377 rsi 60.57
+
+New LONG: TIINDIA at price 2982.6 rsi 73.74
+
+New LONG: UPL at price 687 rsi 60.35
+
+New LONG: VBL at price 540 rsi 63.45
+
+New SHORT: BTCUSD at price 93789 rsi 34.57
+
