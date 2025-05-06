@@ -1,327 +1,392 @@
 
-05-06 10:26 Next: [ 11 : 26 ] 05-06 =>
-Holding: ABB - profit: (0.15%)
- position: -1|Current price: 5410 rsi: 37.89|Entry: 5418
+05-06 11:28 Next: [ 12 : 28 ] 05-06 =>
+Holding: ABB - profit: (0.58%)
+ position: -1|Current price: 5386.5 rsi: 35.35|Entry: 5418
 
-Holding: ACC - profit: (0.84%)
- position: -1|Current price: 1861.5 rsi: 32.32|Entry: 1877.3
+Holding: ACC - profit: (1.00%)
+ position: -1|Current price: 1858.6 rsi: 31.25|Entry: 1877.3
 
-Holding: AARTIIND - profit: (-1.01%)
- position: 1|Current price: 447.35 rsi: 64.59|Entry: 451.9
+Holding: AARTIIND - profit: (-1.59%)
+ position: 1|Current price: 444.7 rsi: 59.28|Entry: 451.9
 
-Exited LONG: ADANIENT - (-2.42%)
+Holding: ADANIENT - profit: (-0.00%)
+ position: 0|Current price: 2388.9 rsi: 51.03|Entry: 2405.8
 
-Exited LONG: ADANIGREEN - (-2.98%)
+Holding: ADANIGREEN - profit: (-0.00%)
+ position: 0|Current price: 936.35 rsi: 49.2|Entry: 941.05
 
-Holding: ADANIPORTS - profit: (-1.81%)
- position: 1|Current price: 1322.6 rsi: 62.27|Entry: 1347
+Holding: ADANIPORTS - profit: (-2.28%)
+ position: 1|Current price: 1316.3 rsi: 59.61|Entry: 1347
 
-Holding: ATGL - profit: (-3.09%)
- position: 1|Current price: 646.9 rsi: 58.23|Entry: 667.5
+Holding: ATGL - profit: (-3.87%)
+ position: 1|Current price: 641.7 rsi: 55.2|Entry: 667.5
 
-New SHORT: AMBUJACEM at price 532.95 rsi 37.68
+New SHORT: ABCAPITAL at price 194.98 rsi 36.34
+
+Holding: AMBUJACEM - profit: (-0.50%)
+ position: -1|Current price: 535.6 rsi: 41.9|Entry: 532.95
 
 Holding: ANGELONE - profit: (-0.00%)
- position: 0|Current price: 2333 rsi: 45.81|Entry: 2356.2
+ position: 0|Current price: 2324.6 rsi: 43.8|Entry: 2356.2
 
-Holding: APOLLOTYRE - profit: (-0.72%)
- position: 1|Current price: 484.65 rsi: 60.14|Entry: 488.15
+Holding: APOLLOTYRE - profit: (-0.04%)
+ position: 1|Current price: 487.95 rsi: 63.65|Entry: 488.15
 
-New SHORT: ASTRAL at price 1320.5 rsi 37.57
+Holding: ASTRAL - profit: (0.34%)
+ position: -1|Current price: 1316 rsi: 35.56|Entry: 1320.5
 
-Holding: AUROPHARMA - profit: (-0.60%)
- position: -1|Current price: 1210.7 rsi: 41.47|Entry: 1203.5
+Holding: AUROPHARMA - profit: (-0.54%)
+ position: -1|Current price: 1210 rsi: 41.05|Entry: 1203.5
 
-Holding: DMART - profit: (-0.11%)
- position: -1|Current price: 4024.5 rsi: 34.59|Entry: 4019.9
+Holding: DMART - profit: (0.37%)
+ position: -1|Current price: 4005 rsi: 32.63|Entry: 4019.9
 
-New SHORT: AXISBANK at price 1170.1 rsi 39.07
+Holding: AXISBANK - profit: (0.42%)
+ position: -1|Current price: 1165.2 rsi: 35.83|Entry: 1170.1
 
-Exited LONG: BAJAJFINSV - (-1.08%)
+Holding: BAJAJFINSV - profit: (0.00%)
+ position: 0|Current price: 2019 rsi: 55.06|Entry: 2011
 
-Holding: BALKRISIND - profit: (0.86%)
- position: 1|Current price: 2718.4 rsi: 64.93|Entry: 2695.1
+Holding: BALKRISIND - profit: (1.09%)
+ position: 1|Current price: 2724.4 rsi: 65.93|Entry: 2695.1
 
-New SHORT: BANDHANBNK at price 160.8 rsi 34.91
+Holding: BANDHANBNK - profit: (0.63%)
+ position: -1|Current price: 159.79 rsi: 32.16|Entry: 160.8
 
-New SHORT: BANKBARODA at price 245.1 rsi 34.84
+Holding: BANKBARODA - profit: (-0.09%)
+ position: -1|Current price: 245.33 rsi: 36.76|Entry: 245.1
 
-Holding: BANKINDIA - profit: (1.18%)
- position: -1|Current price: 113.74 rsi: 32.62|Entry: 115.1
+Holding: BANKINDIA - profit: (2.15%)
+ position: -1|Current price: 112.63 rsi: 28.04|Entry: 115.1
 
-Exited LONG: BPCL - (-2.27%)
+New SHORT: BHEL at price 223.9 rsi 39.48
 
-Holding: BHARTIARTL - profit: (-0.15%)
- position: 1|Current price: 1900.1 rsi: 70.87|Entry: 1903
+Holding: BPCL - profit: (-0.00%)
+ position: 0|Current price: 312.55 rsi: 45.28|Entry: 314.15
 
-Holding: BIOCON - profit: (1.41%)
- position: 1|Current price: 340.75 rsi: 77.49|Entry: 336
+Holding: BHARTIARTL - profit: (-0.14%)
+ position: 1|Current price: 1900.3 rsi: 70.93|Entry: 1903
 
-Holding: BOSCHLTD - profit: (0.03%)
- position: 1|Current price: 30360 rsi: 68.94|Entry: 30350
+Holding: BIOCON - profit: (1.89%)
+ position: 1|Current price: 342.35 rsi: 78.78|Entry: 336
 
-New SHORT: BRITANNIA at price 5330.5 rsi 39.14
+Holding: BOSCHLTD - profit: (-0.74%)
+ position: 1|Current price: 30125 rsi: 61.35|Entry: 30350
 
-Exited LONG: CESC - (-2.48%)
+Holding: BRITANNIA - profit: (0.12%)
+ position: -1|Current price: 5324 rsi: 39.42|Entry: 5330.5
 
-Holding: CGPOWER - profit: (-0.09%)
- position: 1|Current price: 642 rsi: 61.38|Entry: 642.55
+Holding: CESC - profit: (0.00%)
+ position: 0|Current price: 161.55 rsi: 52.22|Entry: 161.06
 
-New SHORT: CANBK at price 95.57 rsi 32.62
+Holding: CGPOWER - profit: (-0.55%)
+ position: 1|Current price: 639 rsi: 57.62|Entry: 642.55
 
-New SHORT: CDSL at price 1286.5 rsi 39.22
+Holding: CANBK - profit: (0.63%)
+ position: -1|Current price: 94.97 rsi: 29.25|Entry: 95.57
 
-Holding: CHAMBLFERT - profit: (0.88%)
- position: 1|Current price: 709.2 rsi: 64.67|Entry: 703
+Holding: CDSL - profit: (0.27%)
+ position: -1|Current price: 1283 rsi: 38.11|Entry: 1286.5
 
-Holding: CHOLAFIN - profit: (-1.03%)
- position: 1|Current price: 1539 rsi: 59.89|Entry: 1555
+Holding: CHAMBLFERT - profit: (1.11%)
+ position: 1|Current price: 710.8 rsi: 65.58|Entry: 703
 
-Holding: CIPLA - profit: (0.34%)
- position: -1|Current price: 1506.7 rsi: 32.14|Entry: 1511.9
+Holding: CHOLAFIN - profit: (-1.25%)
+ position: 1|Current price: 1535.5 rsi: 57.96|Entry: 1555
 
-New SHORT: COALINDIA at price 379.1 rsi 33.01
+Holding: CIPLA - profit: (-0.03%)
+ position: -1|Current price: 1512.4 rsi: 34.57|Entry: 1511.9
 
-Holding: COFORGE - profit: (-2.26%)
- position: 1|Current price: 7606 rsi: 62.79|Entry: 7781.5
+Holding: COALINDIA - profit: (-0.45%)
+ position: -1|Current price: 380.8 rsi: 37.65|Entry: 379.1
 
-Holding: CAMS - profit: (2.73%)
- position: -1|Current price: 3705 rsi: 22.45|Entry: 3809
+Holding: COFORGE - profit: (-2.44%)
+ position: 1|Current price: 7591.5 rsi: 61.12|Entry: 7781.5
 
-Holding: CUMMINSIND - profit: (-0.83%)
- position: -1|Current price: 2791 rsi: 31.44|Entry: 2767.9
+Holding: CAMS - profit: (3.54%)
+ position: -1|Current price: 3674.1 rsi: 18.8|Entry: 3809
 
-Exited LONG: DLF - (-1.10%)
+Holding: CUMMINSIND - profit: (-0.92%)
+ position: -1|Current price: 2793.3 rsi: 34.0|Entry: 2767.9
 
-Holding: DRREDDY - profit: (-0.36%)
- position: -1|Current price: 1159.3 rsi: 38.96|Entry: 1155.1
+Holding: DLF - profit: (-0.00%)
+ position: 0|Current price: 681.8 rsi: 48.59|Entry: 685
+
+Holding: DRREDDY - profit: (-0.85%)
+ position: -1|Current price: 1164.9 rsi: 43.04|Entry: 1155.1
 
 Holding: ETERNAL - profit: (-0.00%)
- position: 0|Current price: 235.84 rsi: 51.07|Entry: 237.12
+ position: 0|Current price: 234.56 rsi: 47.78|Entry: 237.12
 
-New SHORT: ESCORTS at price 3183.5 rsi 35.0
+Holding: ESCORTS - profit: (-1.41%)
+ position: -1|Current price: 3228.5 rsi: 44.18|Entry: 3183.5
 
-New SHORT: GMRAIRPORT at price 86.8 rsi 39.51
+Holding: GMRAIRPORT - profit: (0.45%)
+ position: -1|Current price: 86.41 rsi: 36.81|Entry: 86.8
 
-Holding: GLENMARK - profit: (0.18%)
- position: 1|Current price: 1410 rsi: 63.45|Entry: 1407.5
+Holding: GLENMARK - profit: (0.51%)
+ position: 1|Current price: 1414.7 rsi: 65.32|Entry: 1407.5
 
-Exited LONG: HDFCLIFE - (-1.09%)
+New SHORT: GODREJPROP at price 2135.3 rsi 39.96
 
-New SHORT: HFCL at price 78.78 rsi 38.75
+New SHORT: HDFCAMC at price 4337.1 rsi 36.13
 
-Holding: HAL - profit: (0.04%)
- position: 1|Current price: 4598.9 rsi: 63.28|Entry: 4597
+Holding: HDFCLIFE - profit: (-0.00%)
+ position: 0|Current price: 729.55 rsi: 47.63|Entry: 732.05
 
-Holding: HINDPETRO - profit: (-1.82%)
- position: 1|Current price: 403.55 rsi: 56.99|Entry: 411.05
+Holding: HFCL - profit: (0.23%)
+ position: -1|Current price: 78.6 rsi: 37.56|Entry: 78.78
 
-Holding: HINDUNILVR - profit: (0.35%)
- position: 1|Current price: 2365.5 rsi: 63.75|Entry: 2357.3
+Holding: HAL - profit: (-0.47%)
+ position: 1|Current price: 4575.3 rsi: 57.72|Entry: 4597
 
-Holding: HINDZINC - profit: (1.75%)
- position: -1|Current price: 421.1 rsi: 22.35|Entry: 428.6
+New SHORT: HINDCOPPER at price 212.45 rsi 39.7
+
+Exited LONG: HINDPETRO - (-2.69%)
+
+Holding: HINDUNILVR - profit: (0.73%)
+ position: 1|Current price: 2374.6 rsi: 67.72|Entry: 2357.3
+
+Holding: HINDZINC - profit: (1.95%)
+ position: -1|Current price: 420.25 rsi: 21.53|Entry: 428.6
 
 Holding: HUDCO - profit: (-0.00%)
- position: 0|Current price: 223.33 rsi: 43.33|Entry: 227.05
+ position: 0|Current price: 222.47 rsi: 41.35|Entry: 227.05
 
-New SHORT: ICICIGI at price 1832.4 rsi 36.0
+Holding: ICICIGI - profit: (0.37%)
+ position: -1|Current price: 1825.6 rsi: 33.53|Entry: 1832.4
 
-Holding: IRB - profit: (2.21%)
- position: -1|Current price: 44.66 rsi: 27.48|Entry: 45.67
+Holding: IRB - profit: (2.82%)
+ position: -1|Current price: 44.38 rsi: 25.14|Entry: 45.67
 
-Holding: ITC - profit: (-0.15%)
- position: 1|Current price: 436.85 rsi: 63.91|Entry: 437.5
+Holding: ITC - profit: (-0.07%)
+ position: 1|Current price: 437.2 rsi: 63.25|Entry: 437.5
 
-Holding: IOC - profit: (-1.70%)
- position: 1|Current price: 146.12 rsi: 60.83|Entry: 148.65
+Holding: IOC - profit: (-2.11%)
+ position: 1|Current price: 145.51 rsi: 57.83|Entry: 148.65
 
-Holding: IRFC - profit: (0.75%)
- position: -1|Current price: 122.96 rsi: 31.14|Entry: 123.89
+Holding: IRFC - profit: (0.94%)
+ position: -1|Current price: 122.73 rsi: 30.1|Entry: 123.89
 
-New SHORT: IREDA at price 163.62 rsi 36.43
+Holding: IREDA - profit: (0.15%)
+ position: -1|Current price: 163.37 rsi: 35.68|Entry: 163.62
 
-Holding: IGL - profit: (-0.88%)
- position: 1|Current price: 204.5 rsi: 69.68|Entry: 206.31
+Holding: IGL - profit: (-1.48%)
+ position: 1|Current price: 203.25 rsi: 65.45|Entry: 206.31
 
 Holding: INDUSTOWER - profit: (0.61%)
- position: -1|Current price: 381.45 rsi: 35.81|Entry: 383.8
+ position: -1|Current price: 381.45 rsi: 36.28|Entry: 383.8
 
-Exited LONG: INDIGO - (-1.55%)
+New SHORT: INDUSINDBK at price 825.9 rsi 38.23
 
-Holding: JSWSTEEL - profit: (-0.57%)
- position: -1|Current price: 960.6 rsi: 29.61|Entry: 955.2
+Holding: INDIGO - profit: (-0.00%)
+ position: 0|Current price: 5392 rsi: 48.1|Entry: 5447
 
-Holding: JSL - profit: (-0.20%)
- position: 1|Current price: 586.4 rsi: 59.16|Entry: 587.55
+Holding: JSWSTEEL - profit: (-0.74%)
+ position: -1|Current price: 962.3 rsi: 30.85|Entry: 955.2
 
-New SHORT: JINDALSTEL at price 881 rsi 37.69
+Holding: JSL - profit: (0.50%)
+ position: 1|Current price: 590.5 rsi: 61.01|Entry: 587.55
 
-New SHORT: JIOFIN at price 253.8 rsi 35.71
+Holding: JINDALSTEL - profit: (-0.45%)
+ position: -1|Current price: 885 rsi: 40.77|Entry: 881
 
-Holding: KEI - profit: (-1.84%)
- position: 1|Current price: 3170.7 rsi: 61.03|Entry: 3230
+Holding: JIOFIN - profit: (-0.53%)
+ position: -1|Current price: 255.15 rsi: 38.89|Entry: 253.8
+
+Holding: KEI - profit: (-1.67%)
+ position: 1|Current price: 3176.1 rsi: 62.05|Entry: 3230
 
 Holding: KALYANKJIL - profit: (-0.00%)
- position: 0|Current price: 515.5 rsi: 46.73|Entry: 521.85
+ position: 0|Current price: 514.4 rsi: 45.57|Entry: 521.85
 
-Holding: KOTAKBANK - profit: (0.73%)
- position: -1|Current price: 2069.8 rsi: 26.15|Entry: 2085
+Holding: KOTAKBANK - profit: (0.51%)
+ position: -1|Current price: 2074.4 rsi: 28.23|Entry: 2085
 
-New SHORT: LAURUSLABS at price 609.2 rsi 39.76
+New SHORT: LICHSGFIN at price 593.95 rsi 36.98
 
-Exited LONG: LICI - (-2.00%)
+Holding: LAURUSLABS - profit: (-0.47%)
+ position: -1|Current price: 612.05 rsi: 43.14|Entry: 609.2
 
-Holding: LUPIN - profit: (-0.57%)
- position: -1|Current price: 2048.3 rsi: 40.86|Entry: 2036.6
+Holding: LICI - profit: (-0.00%)
+ position: 0|Current price: 795.25 rsi: 41.32|Entry: 800.65
 
-Holding: MRF - profit: (-0.70%)
- position: 1|Current price: 135500 rsi: 56.08|Entry: 136460
+Holding: LUPIN - profit: (-0.52%)
+ position: -1|Current price: 2047.2 rsi: 41.27|Entry: 2036.6
 
-Holding: MGL - profit: (-0.57%)
- position: 1|Current price: 1398.4 rsi: 63.71|Entry: 1406.4
+Exited LONG: MRF - (-1.14%)
 
-Holding: M&M - profit: (2.78%)
- position: 1|Current price: 3108.1 rsi: 79.31|Entry: 3024
+Holding: MGL - profit: (-1.04%)
+ position: 1|Current price: 1391.8 rsi: 59.82|Entry: 1406.4
 
-Holding: MANAPPURAM - profit: (-0.11%)
- position: -1|Current price: 228.5 rsi: 38.7|Entry: 228.25
+New SHORT: M&MFIN at price 260.55 rsi 37.33
 
-Holding: MARICO - profit: (-0.00%)
- position: 0|Current price: 718.2 rsi: 52.84|Entry: 718.6
+Holding: M&M - profit: (1.36%)
+ position: 1|Current price: 3065 rsi: 68.08|Entry: 3024
 
-Holding: MARUTI - profit: (0.48%)
- position: 1|Current price: 12509 rsi: 65.37|Entry: 12449
+Holding: MANAPPURAM - profit: (-0.14%)
+ position: -1|Current price: 228.57 rsi: 39.48|Entry: 228.25
 
-Holding: MAXHEALTH - profit: (2.38%)
- position: 1|Current price: 1161 rsi: 70.92|Entry: 1134
+Holding: MARICO - profit: (0.00%)
+ position: 0|Current price: 718.75 rsi: 52.95|Entry: 718.6
 
-New SHORT: MPHASIS at price 2407.4 rsi 34.7
+Holding: MARUTI - profit: (0.84%)
+ position: 1|Current price: 12553 rsi: 66.85|Entry: 12449
 
-Holding: MUTHOOTFIN - profit: (0.90%)
- position: 1|Current price: 2223.5 rsi: 66.62|Entry: 2203.6
+New SHORT: MFSL at price 1268.4 rsi 36.71
 
-New SHORT: NBCC at price 94.04 rsi 38.27
+Holding: MAXHEALTH - profit: (2.99%)
+ position: 1|Current price: 1167.9 rsi: 72.51|Entry: 1134
+
+Holding: MPHASIS - profit: (0.52%)
+ position: -1|Current price: 2395 rsi: 32.6|Entry: 2407.4
+
+Holding: MUTHOOTFIN - profit: (0.89%)
+ position: 1|Current price: 2223.2 rsi: 65.74|Entry: 2203.6
+
+Holding: NBCC - profit: (-0.17%)
+ position: -1|Current price: 94.2 rsi: 39.54|Entry: 94.04
 
 Holding: NCC - profit: (-0.00%)
- position: 0|Current price: 215.45 rsi: 44.69|Entry: 219.1
+ position: 0|Current price: 214.8 rsi: 43.17|Entry: 219.1
 
-Holding: NHPC - profit: (2.18%)
- position: -1|Current price: 82.99 rsi: 26.75|Entry: 84.84
+Holding: NHPC - profit: (2.60%)
+ position: -1|Current price: 82.63 rsi: 24.93|Entry: 84.84
 
-Holding: NTPC - profit: (1.33%)
- position: -1|Current price: 343.85 rsi: 28.66|Entry: 348.5
+Holding: NTPC - profit: (1.36%)
+ position: -1|Current price: 343.75 rsi: 29.1|Entry: 348.5
 
-Exited SHORT NESTLEIND - (-1.26%)
+New SHORT: NATIONALUM at price 157.38 rsi 39.7
 
-New SHORT: ONGC at price 238.76 rsi 36.89
+Holding: NESTLEIND - profit: (-0.00%)
+ position: 0|Current price: 2352.6 rsi: 46.43|Entry: 2361.5
 
-New SHORT: PAYTM at price 838.5 rsi 37.37
+Holding: ONGC - profit: (0.08%)
+ position: -1|Current price: 238.57 rsi: 36.33|Entry: 238.76
 
-New SHORT: OFSS at price 8491 rsi 35.15
+Holding: PAYTM - profit: (1.10%)
+ position: -1|Current price: 829.25 rsi: 33.68|Entry: 838.5
+
+Holding: OFSS - profit: (0.33%)
+ position: -1|Current price: 8463 rsi: 33.43|Entry: 8491
 
 Holding: POLICYBZR - profit: (-0.00%)
- position: 0|Current price: 1614.3 rsi: 46.05|Entry: 1642
+ position: 0|Current price: 1621.8 rsi: 48.25|Entry: 1642
 
-Exited LONG: PNBHOUSING - (-1.38%)
+Holding: PNBHOUSING - profit: (0.00%)
+ position: 0|Current price: 1053.5 rsi: 57.52|Entry: 1046.4
 
-Exited LONG: PAGEIND - (-0.74%)
+Holding: PAGEIND - profit: (-0.00%)
+ position: 0|Current price: 45665 rsi: 52.61|Entry: 45745
 
-Holding: PATANJALI - profit: (0.73%)
- position: -1|Current price: 1855.4 rsi: 31.66|Entry: 1869
+Holding: PATANJALI - profit: (0.74%)
+ position: -1|Current price: 1855.1 rsi: 33.13|Entry: 1869
 
-Holding: PERSISTENT - profit: (-0.52%)
- position: 1|Current price: 5503 rsi: 58.72|Entry: 5532
+Exited LONG: PERSISTENT - (-1.27%)
 
-New SHORT: PETRONET at price 308.6 rsi 38.98
+Holding: PETRONET - profit: (-0.50%)
+ position: -1|Current price: 310.15 rsi: 42.51|Entry: 308.6
 
-Exited LONG: PEL - (-2.04%)
+Holding: PEL - profit: (0.00%)
+ position: 0|Current price: 992.3 rsi: 51.3|Entry: 988.4
 
-Holding: POLYCAB - profit: (0.00%)
- position: 1|Current price: 5793 rsi: 73.3|Entry: 5793
+Holding: POLYCAB - profit: (-0.20%)
+ position: 1|Current price: 5781.5 rsi: 70.88|Entry: 5793
 
-New SHORT: PFC at price 402.25 rsi 35.22
+New SHORT: POONAWALLA at price 375.7 rsi 39.56
 
-Holding: PNB - profit: (1.39%)
- position: -1|Current price: 97.64 rsi: 29.05|Entry: 99.02
+Holding: PFC - profit: (0.22%)
+ position: -1|Current price: 401.35 rsi: 34.17|Entry: 402.25
 
-New SHORT: RECLTD at price 414.4 rsi 35.49
+Holding: PNB - profit: (2.21%)
+ position: -1|Current price: 96.83 rsi: 25.51|Entry: 99.02
 
-Holding: RELIANCE - profit: (-0.83%)
- position: 1|Current price: 1417.7 rsi: 56.46|Entry: 1429.5
+Holding: RECLTD - profit: (0.63%)
+ position: -1|Current price: 411.8 rsi: 32.78|Entry: 414.4
 
-Holding: SBICARD - profit: (-1.25%)
- position: 1|Current price: 894.3 rsi: 55.04|Entry: 905.6
+Exited LONG: RELIANCE - (-1.27%)
 
-Exited LONG: SBILIFE - (-0.58%)
+Exited LONG: SBICARD - (-1.48%)
 
-Holding: SJVN - profit: (0.78%)
- position: -1|Current price: 92.54 rsi: 30.67|Entry: 93.27
+Holding: SBILIFE - profit: (-0.00%)
+ position: 0|Current price: 1753.4 rsi: 50.52|Entry: 1758.8
 
-Holding: SRF - profit: (0.30%)
- position: -1|Current price: 2944.4 rsi: 35.94|Entry: 2953.4
+Holding: SJVN - profit: (1.25%)
+ position: -1|Current price: 92.1 rsi: 28.32|Entry: 93.27
 
-Holding: MOTHERSON - profit: (-0.76%)
- position: 1|Current price: 138 rsi: 62.25|Entry: 139.05
+Holding: SRF - profit: (0.02%)
+ position: -1|Current price: 2952.7 rsi: 39.2|Entry: 2953.4
 
-Holding: SOLARINDS - profit: (-0.16%)
- position: 1|Current price: 13366 rsi: 61.53|Entry: 13387
+Holding: MOTHERSON - profit: (-1.72%)
+ position: 1|Current price: 136.66 rsi: 55.32|Entry: 139.05
 
-Holding: SONACOMS - profit: (-0.56%)
- position: 1|Current price: 505.15 rsi: 64.21|Entry: 508
+Exited LONG: SOLARINDS - (-0.94%)
 
-Holding: SBIN - profit: (1.07%)
- position: -1|Current price: 776.9 rsi: 32.2|Entry: 785.3
+Holding: SONACOMS - profit: (0.11%)
+ position: 1|Current price: 508.55 rsi: 68.29|Entry: 508
 
-New SHORT: SUPREMEIND at price 3433.3 rsi 36.07
+Holding: SBIN - profit: (1.44%)
+ position: -1|Current price: 774 rsi: 30.36|Entry: 785.3
 
-Holding: TITAGARH - profit: (2.38%)
- position: -1|Current price: 716.7 rsi: 19.75|Entry: 734.2
+Holding: SUPREMEIND - profit: (0.32%)
+ position: -1|Current price: 3422.4 rsi: 34.34|Entry: 3433.3
 
-Holding: TVSMOTOR - profit: (1.13%)
- position: 1|Current price: 2811.8 rsi: 68.83|Entry: 2780.3
+Holding: TITAGARH - profit: (3.08%)
+ position: -1|Current price: 711.6 rsi: 17.8|Entry: 734.2
 
-New SHORT: TATACHEM at price 826.6 rsi 35.84
+Holding: TVSMOTOR - profit: (0.07%)
+ position: 1|Current price: 2782.2 rsi: 59.61|Entry: 2780.3
 
-New SHORT: TATAPOWER at price 382.3 rsi 39.97
+Holding: TATACHEM - profit: (0.59%)
+ position: -1|Current price: 821.75 rsi: 32.85|Entry: 826.6
 
-Holding: FEDERALBNK - profit: (1.15%)
- position: -1|Current price: 189.12 rsi: 32.56|Entry: 191.32
+Holding: TATAPOWER - profit: (0.72%)
+ position: -1|Current price: 379.55 rsi: 36.03|Entry: 382.3
 
-Holding: INDHOTEL - profit: (0.74%)
- position: -1|Current price: 771.65 rsi: 32.16|Entry: 777.4
+New LONG: TATASTEEL at price 143.56 rsi 62.82
 
-New SHORT: PHOENIXLTD at price 1547.1 rsi 39.53
+New SHORT: TATATECH at price 654.65 rsi 39.24
 
-Holding: TITAN - profit: (1.31%)
- position: -1|Current price: 3275.2 rsi: 30.39|Entry: 3318.7
+Holding: FEDERALBNK - profit: (1.10%)
+ position: -1|Current price: 189.22 rsi: 34.11|Entry: 191.32
 
-New SHORT: TORNTPHARM at price 3246.1 rsi 37.67
+Holding: INDHOTEL - profit: (1.42%)
+ position: -1|Current price: 766.35 rsi: 29.99|Entry: 777.4
 
-Holding: TORNTPOWER - profit: (-0.00%)
- position: 0|Current price: 1486.9 rsi: 41.0|Entry: 1502.1
+Holding: PHOENIXLTD - profit: (0.45%)
+ position: -1|Current price: 1540.1 rsi: 37.53|Entry: 1547.1
 
-Exited LONG: TRENT - (-1.64%)
+Holding: TITAN - profit: (1.72%)
+ position: -1|Current price: 3261.6 rsi: 28.78|Entry: 3318.7
 
-Holding: TIINDIA - profit: (-0.37%)
- position: 1|Current price: 2971.6 rsi: 69.41|Entry: 2982.6
+Exited SHORT TORNTPHARM - (-0.91%)
 
-Holding: UPL - profit: (-0.05%)
- position: 1|Current price: 686.65 rsi: 58.9|Entry: 687
+New SHORT: TORNTPOWER at price 1480 rsi 38.85
 
-New SHORT: ULTRACEMCO at price 11630 rsi 39.06
+Holding: TRENT - profit: (0.00%)
+ position: 0|Current price: 5300 rsi: 52.89|Entry: 5289
 
-Holding: UNIONBANK - profit: (1.41%)
- position: -1|Current price: 123.19 rsi: 30.45|Entry: 124.95
+Holding: TIINDIA - profit: (-0.93%)
+ position: 1|Current price: 2955 rsi: 64.26|Entry: 2982.6
 
-Exited LONG: VBL - (-1.98%)
+Holding: UPL - profit: (-0.28%)
+ position: 1|Current price: 685.1 rsi: 56.36|Entry: 687
 
-Holding: IDEA - profit: (1.13%)
- position: -1|Current price: 7.02 rsi: 29.46|Entry: 7.1
+Holding: ULTRACEMCO - profit: (0.40%)
+ position: -1|Current price: 11583 rsi: 36.21|Entry: 11630
 
-Holding: YESBANK - profit: (-2.20%)
- position: 1|Current price: 18.26 rsi: 65.58|Entry: 18.67
+Holding: UNIONBANK - profit: (2.37%)
+ position: -1|Current price: 121.99 rsi: 26.4|Entry: 124.95
 
-Holding: BTCUSD - profit: (0.00%)
- position: 0|Current price: 94569 rsi: 49.88|Entry: 94455
+Holding: VBL - profit: (-0.00%)
+ position: 0|Current price: 524.4 rsi: 43.04|Entry: 529.3
+
+Holding: IDEA - profit: (1.41%)
+ position: -1|Current price: 7 rsi: 28.06|Entry: 7.1
+
+Holding: YESBANK - profit: (-2.89%)
+ position: 1|Current price: 18.13 rsi: 59.24|Entry: 18.67
+
+Holding: BTCUSD - profit: (-0.00%)
+ position: 0|Current price: 94364 rsi: 46.59|Entry: 94455
 
