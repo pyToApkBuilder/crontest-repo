@@ -1,7 +1,23 @@
 {
     "active": {
-        "ABB": {},
-        "ACC": {},
+        "ABB": {
+            "timestamp": "05-06 09:28",
+            "position": -1,
+            "entry": 5418,
+            "rsi": [
+                38.88
+            ],
+            "profit%": 0
+        },
+        "ACC": {
+            "timestamp": "05-06 09:28",
+            "position": -1,
+            "entry": 1877.3,
+            "rsi": [
+                38.39
+            ],
+            "profit%": 0
+        },
         "APLAPOLLO": {},
         "AUBANK": {},
         "AARTIIND": {
@@ -9,7 +25,8 @@
             "position": 1,
             "entry": 451.9,
             "rsi": [
-                72.61
+                72.61,
+                67.39
             ],
             "profit%": 0
         },
@@ -19,7 +36,8 @@
             "position": 1,
             "entry": 2465.4,
             "rsi": [
-                66.55
+                66.55,
+                63.54
             ],
             "profit%": 0
         },
@@ -28,7 +46,8 @@
             "position": 1,
             "entry": 970,
             "rsi": [
-                62.7
+                62.7,
+                60.55
             ],
             "profit%": 0
         },
@@ -37,7 +56,8 @@
             "position": 1,
             "entry": 1347,
             "rsi": [
-                73.96
+                73.96,
+                71.72
             ],
             "profit%": 0
         },
@@ -46,7 +66,8 @@
             "position": 1,
             "entry": 667.5,
             "rsi": [
-                72.18
+                72.18,
+                72.71
             ],
             "profit%": 0
         },
@@ -55,13 +76,11 @@
         "ALKEM": {},
         "AMBUJACEM": {},
         "ANGELONE": {
-            "timestamp": "05-05 19:12",
-            "position": 1,
-            "entry": 2388.1,
-            "rsi": [
-                62.65
-            ],
-            "profit%": 0
+            "timestamp": "05-06 09:28",
+            "position": 0,
+            "entry": 2356.2,
+            "rsi": [],
+            "profit%": -1.3357899585444535
         },
         "APOLLOHOSP": {},
         "APOLLOTYRE": {
@@ -69,20 +88,30 @@
             "position": 1,
             "entry": 488.15,
             "rsi": [
-                65.94
+                65.94,
+                60.31
             ],
             "profit%": 0
         },
         "ASHOKLEY": {},
         "ASIANPAINT": {},
         "ASTRAL": {},
-        "AUROPHARMA": {},
+        "AUROPHARMA": {
+            "timestamp": "05-06 09:28",
+            "position": -1,
+            "entry": 1203.5,
+            "rsi": [
+                39.01
+            ],
+            "profit%": 0
+        },
         "DMART": {
             "timestamp": "05-05 19:12",
             "position": -1,
             "entry": 4019.9,
             "rsi": [
-                32.11
+                32.11,
+                33.18
             ],
             "profit%": 0
         },
@@ -91,19 +120,36 @@
         "BSE": {},
         "BAJAJ_AUTO": {},
         "BAJFINANCE": {},
-        "BAJAJFINSV": {},
+        "BAJAJFINSV": {
+            "timestamp": "05-06 09:28",
+            "position": 1,
+            "entry": 2033,
+            "rsi": [
+                60.61
+            ],
+            "profit%": 0
+        },
         "BALKRISIND": {
             "timestamp": "05-05 19:12",
             "position": 1,
             "entry": 2695.1,
             "rsi": [
-                60.42
+                60.42,
+                65.79
             ],
             "profit%": 0
         },
         "BANDHANBNK": {},
         "BANKBARODA": {},
-        "BANKINDIA": {},
+        "BANKINDIA": {
+            "timestamp": "05-06 09:28",
+            "position": -1,
+            "entry": 115.1,
+            "rsi": [
+                39.8
+            ],
+            "profit%": 0
+        },
         "BEL": {},
         "BHARATFORG": {},
         "BHEL": {},
@@ -112,17 +158,27 @@
             "position": 1,
             "entry": 321.45,
             "rsi": [
-                62.0
+                62.0,
+                56.25
             ],
             "profit%": 0
         },
-        "BHARTIARTL": {},
+        "BHARTIARTL": {
+            "timestamp": "05-06 09:28",
+            "position": 1,
+            "entry": 1903,
+            "rsi": [
+                71.49
+            ],
+            "profit%": 0
+        },
         "BIOCON": {
             "timestamp": "05-05 19:12",
             "position": 1,
             "entry": 336,
             "rsi": [
-                73.56
+                73.56,
+                77.02
             ],
             "profit%": 0
         },
@@ -131,7 +187,8 @@
             "position": 1,
             "entry": 30350,
             "rsi": [
-                69.97
+                69.97,
+                71.33
             ],
             "profit%": 0
         },
@@ -141,46 +198,90 @@
             "position": 1,
             "entry": 165.16,
             "rsi": [
-                67.23
+                67.23,
+                63.0
             ],
             "profit%": 0
         },
-        "CGPOWER": {},
+        "CGPOWER": {
+            "timestamp": "05-06 09:28",
+            "position": 1,
+            "entry": 642.55,
+            "rsi": [
+                63.5
+            ],
+            "profit%": 0
+        },
         "CANBK": {},
         "CDSL": {},
-        "CHAMBLFERT": {},
+        "CHAMBLFERT": {
+            "timestamp": "05-06 09:28",
+            "position": 1,
+            "entry": 703,
+            "rsi": [
+                60.3
+            ],
+            "profit%": 0
+        },
         "CHOLAFIN": {
             "timestamp": "05-05 19:12",
             "position": 1,
             "entry": 1555,
             "rsi": [
-                69.79
+                69.79,
+                71.25
             ],
             "profit%": 0
         },
-        "CIPLA": {},
+        "CIPLA": {
+            "timestamp": "05-06 09:28",
+            "position": -1,
+            "entry": 1511.9,
+            "rsi": [
+                34.2
+            ],
+            "profit%": 0
+        },
         "COALINDIA": {},
-        "COFORGE": {},
+        "COFORGE": {
+            "timestamp": "05-06 09:28",
+            "position": 1,
+            "entry": 7781.5,
+            "rsi": [
+                72.59
+            ],
+            "profit%": 0
+        },
         "COLPAL": {},
         "CAMS": {
             "timestamp": "05-05 19:12",
             "position": -1,
             "entry": 3809,
             "rsi": [
-                32.91
+                32.91,
+                22.07
             ],
             "profit%": 0
         },
         "CONCOR": {},
         "CROMPTON": {},
-        "CUMMINSIND": {},
+        "CUMMINSIND": {
+            "timestamp": "05-06 09:28",
+            "position": -1,
+            "entry": 2767.9,
+            "rsi": [
+                28.59
+            ],
+            "profit%": 0
+        },
         "CYIENT": {},
         "DLF": {
             "timestamp": "05-05 19:12",
             "position": 1,
             "entry": 692.65,
             "rsi": [
-                62.18
+                62.18,
+                58.71
             ],
             "profit%": 0
         },
@@ -190,15 +291,21 @@
         "DELHIVERY": {},
         "DIVISLAB": {},
         "DIXON": {},
-        "DRREDDY": {},
-        "ETERNAL": {
-            "timestamp": "05-05 19:12",
-            "position": 1,
-            "entry": 240.1,
+        "DRREDDY": {
+            "timestamp": "05-06 09:29",
+            "position": -1,
+            "entry": 1155.1,
             "rsi": [
-                64.36
+                37.03
             ],
             "profit%": 0
+        },
+        "ETERNAL": {
+            "timestamp": "05-06 09:29",
+            "position": 0,
+            "entry": 237.12,
+            "rsi": [],
+            "profit%": -1.2411495210328987
         },
         "EICHERMOT": {},
         "ESCORTS": {},
@@ -211,7 +318,8 @@
             "position": 1,
             "entry": 1407.5,
             "rsi": [
-                62.33
+                62.33,
+                63.88
             ],
             "profit%": 0
         },
@@ -222,7 +330,15 @@
         "HCLTECH": {},
         "HDFCAMC": {},
         "HDFCBANK": {},
-        "HDFCLIFE": {},
+        "HDFCLIFE": {
+            "timestamp": "05-06 09:29",
+            "position": 1,
+            "entry": 740.15,
+            "rsi": [
+                61.96
+            ],
+            "profit%": 0
+        },
         "HFCL": {},
         "HAVELLS": {},
         "HEROMOTOCO": {},
@@ -232,7 +348,8 @@
             "position": 1,
             "entry": 4597,
             "rsi": [
-                64.4
+                64.4,
+                69.18
             ],
             "profit%": 0
         },
@@ -242,28 +359,36 @@
             "position": 1,
             "entry": 411.05,
             "rsi": [
-                66.71
+                66.71,
+                62.31
             ],
             "profit%": 0
         },
-        "HINDUNILVR": {},
+        "HINDUNILVR": {
+            "timestamp": "05-06 09:29",
+            "position": 1,
+            "entry": 2357.3,
+            "rsi": [
+                61.21
+            ],
+            "profit%": 0
+        },
         "HINDZINC": {
             "timestamp": "05-05 19:12",
             "position": -1,
             "entry": 428.6,
             "rsi": [
-                31.44
+                31.44,
+                26.94
             ],
             "profit%": 0
         },
         "HUDCO": {
-            "timestamp": "05-05 19:12",
-            "position": 1,
-            "entry": 229.3,
-            "rsi": [
-                61.25
-            ],
-            "profit%": 0
+            "timestamp": "05-06 09:29",
+            "position": 0,
+            "entry": 227.05,
+            "rsi": [],
+            "profit%": -0.981247274313127
         },
         "ICICIBANK": {},
         "ICICIGI": {},
@@ -275,7 +400,8 @@
             "position": -1,
             "entry": 45.67,
             "rsi": [
-                39.54
+                39.54,
+                34.71
             ],
             "profit%": 0
         },
@@ -284,7 +410,8 @@
             "position": 1,
             "entry": 437.5,
             "rsi": [
-                66.14
+                66.14,
+                65.12
             ],
             "profit%": 0
         },
@@ -295,19 +422,29 @@
             "position": 1,
             "entry": 148.65,
             "rsi": [
-                75.24
+                75.24,
+                72.89
             ],
             "profit%": 0
         },
         "IRCTC": {},
-        "IRFC": {},
+        "IRFC": {
+            "timestamp": "05-06 09:29",
+            "position": -1,
+            "entry": 123.89,
+            "rsi": [
+                35.41
+            ],
+            "profit%": 0
+        },
         "IREDA": {},
         "IGL": {
             "timestamp": "05-05 19:12",
             "position": 1,
             "entry": 206.31,
             "rsi": [
-                76.21
+                76.21,
+                77.28
             ],
             "profit%": 0
         },
@@ -316,7 +453,8 @@
             "position": -1,
             "entry": 383.8,
             "rsi": [
-                38.52
+                38.52,
+                42.11
             ],
             "profit%": 0
         },
@@ -329,7 +467,8 @@
             "position": 1,
             "entry": 5532.5,
             "rsi": [
-                68.13
+                68.13,
+                68.31
             ],
             "profit%": 0
         },
@@ -339,11 +478,20 @@
             "position": -1,
             "entry": 955.2,
             "rsi": [
-                22.69
+                22.69,
+                29.7
             ],
             "profit%": 0
         },
-        "JSL": {},
+        "JSL": {
+            "timestamp": "05-06 09:29",
+            "position": 1,
+            "entry": 587.55,
+            "rsi": [
+                60.69
+            ],
+            "profit%": 0
+        },
         "JINDALSTEL": {},
         "JIOFIN": {},
         "JUBLFOOD": {},
@@ -352,26 +500,26 @@
             "position": 1,
             "entry": 3230,
             "rsi": [
-                74.41
+                74.41,
+                69.33
             ],
             "profit%": 0
         },
         "KPITTECH": {},
         "KALYANKJIL": {
-            "timestamp": "05-05 19:12",
-            "position": 1,
-            "entry": 528.9,
-            "rsi": [
-                64.56
-            ],
-            "profit%": 0
+            "timestamp": "05-06 09:29",
+            "position": 0,
+            "entry": 521.85,
+            "rsi": [],
+            "profit%": -1.332955190017008
         },
         "KOTAKBANK": {
             "timestamp": "05-05 19:12",
             "position": -1,
             "entry": 2085,
             "rsi": [
-                28.47
+                28.47,
+                27.23
             ],
             "profit%": 0
         },
@@ -385,17 +533,27 @@
             "position": 1,
             "entry": 817,
             "rsi": [
-                63.24
+                63.24,
+                55.21
             ],
             "profit%": 0
         },
-        "LUPIN": {},
+        "LUPIN": {
+            "timestamp": "05-06 09:29",
+            "position": -1,
+            "entry": 2036.6,
+            "rsi": [
+                38.25
+            ],
+            "profit%": 0
+        },
         "MRF": {
             "timestamp": "05-05 19:12",
             "position": 1,
             "entry": 136460,
             "rsi": [
-                64.26
+                64.26,
+                64.39
             ],
             "profit%": 0
         },
@@ -405,7 +563,8 @@
             "position": 1,
             "entry": 1406.4,
             "rsi": [
-                68.63
+                68.63,
+                72.44
             ],
             "profit%": 0
         },
@@ -415,26 +574,34 @@
             "position": 1,
             "entry": 3024,
             "rsi": [
-                69.86
+                69.86,
+                80.51
             ],
             "profit%": 0
         },
-        "MANAPPURAM": {},
-        "MARICO": {
-            "timestamp": "05-05 19:12",
-            "position": 1,
-            "entry": 726.35,
+        "MANAPPURAM": {
+            "timestamp": "05-06 09:29",
+            "position": -1,
+            "entry": 228.25,
             "rsi": [
-                61.14
+                36.71
             ],
             "profit%": 0
+        },
+        "MARICO": {
+            "timestamp": "05-06 09:29",
+            "position": 0,
+            "entry": 718.6,
+            "rsi": [],
+            "profit%": -1.0669787292627522
         },
         "MARUTI": {
             "timestamp": "05-05 19:12",
             "position": 1,
             "entry": 12449,
             "rsi": [
-                62.45
+                62.45,
+                62.5
             ],
             "profit%": 0
         },
@@ -444,7 +611,8 @@
             "position": 1,
             "entry": 1134,
             "rsi": [
-                62.98
+                62.98,
+                68.62
             ],
             "profit%": 0
         },
@@ -455,26 +623,26 @@
             "position": 1,
             "entry": 2203.6,
             "rsi": [
-                60.95
+                60.95,
+                71.13
             ],
             "profit%": 0
         },
         "NBCC": {},
         "NCC": {
-            "timestamp": "05-05 19:12",
-            "position": 1,
-            "entry": 221.49,
-            "rsi": [
-                61.94
-            ],
-            "profit%": 0
+            "timestamp": "05-06 09:29",
+            "position": 0,
+            "entry": 219.1,
+            "rsi": [],
+            "profit%": -1.0790554878324143
         },
         "NHPC": {
             "timestamp": "05-05 19:12",
             "position": -1,
             "entry": 84.84,
             "rsi": [
-                39.49
+                39.49,
+                31.8
             ],
             "profit%": 0
         },
@@ -484,7 +652,8 @@
             "position": -1,
             "entry": 348.5,
             "rsi": [
-                37.23
+                37.23,
+                33.67
             ],
             "profit%": 0
         },
@@ -494,31 +663,28 @@
             "position": -1,
             "entry": 2332.1,
             "rsi": [
-                33.84
+                33.84,
+                42.14
             ],
             "profit%": 0
         },
         "OBEROIRLTY": {},
         "ONGC": {
-            "timestamp": "05-05 19:12",
-            "position": -1,
-            "entry": 239.88,
-            "rsi": [
-                39.38
-            ],
-            "profit%": 0
+            "timestamp": "05-06 09:29",
+            "position": 0,
+            "entry": 242.1,
+            "rsi": [],
+            "profit%": -0.9254627313656825
         },
         "OIL": {},
         "PAYTM": {},
         "OFSS": {},
         "POLICYBZR": {
-            "timestamp": "05-05 19:12",
-            "position": 1,
-            "entry": 1673,
-            "rsi": [
-                66.73
-            ],
-            "profit%": 0
+            "timestamp": "05-06 09:29",
+            "position": 0,
+            "entry": 1642,
+            "rsi": [],
+            "profit%": -1.852958756724447
         },
         "PIIND": {},
         "PNBHOUSING": {
@@ -526,7 +692,8 @@
             "position": 1,
             "entry": 1061,
             "rsi": [
-                63.58
+                63.58,
+                55.69
             ],
             "profit%": 0
         },
@@ -535,7 +702,8 @@
             "position": 1,
             "entry": 46085,
             "rsi": [
-                63.75
+                63.75,
+                60.56
             ],
             "profit%": 0
         },
@@ -544,7 +712,8 @@
             "position": -1,
             "entry": 1869,
             "rsi": [
-                36.51
+                36.51,
+                37.84
             ],
             "profit%": 0
         },
@@ -553,7 +722,8 @@
             "position": 1,
             "entry": 5532,
             "rsi": [
-                63.55
+                63.55,
+                63.8
             ],
             "profit%": 0
         },
@@ -564,7 +734,8 @@
             "position": 1,
             "entry": 1009,
             "rsi": [
-                61.05
+                61.05,
+                56.52
             ],
             "profit%": 0
         },
@@ -573,7 +744,8 @@
             "position": 1,
             "entry": 5793,
             "rsi": [
-                75.4
+                75.4,
+                77.21
             ],
             "profit%": 0
         },
@@ -581,7 +753,15 @@
         "PFC": {},
         "POWERGRID": {},
         "PRESTIGE": {},
-        "PNB": {},
+        "PNB": {
+            "timestamp": "05-06 09:29",
+            "position": -1,
+            "entry": 99.02,
+            "rsi": [
+                36.94
+            ],
+            "profit%": 0
+        },
         "RBLBANK": {},
         "RECLTD": {},
         "RELIANCE": {
@@ -589,7 +769,8 @@
             "position": 1,
             "entry": 1429.5,
             "rsi": [
-                67.37
+                67.37,
+                56.31
             ],
             "profit%": 0
         },
@@ -598,7 +779,8 @@
             "position": 1,
             "entry": 905.6,
             "rsi": [
-                68.21
+                68.21,
+                65.17
             ],
             "profit%": 0
         },
@@ -607,35 +789,70 @@
             "position": 1,
             "entry": 1769,
             "rsi": [
-                60.51
+                60.51,
+                66.26
             ],
             "profit%": 0
         },
         "SHREECEM": {},
-        "SJVN": {},
-        "SRF": {},
+        "SJVN": {
+            "timestamp": "05-06 09:29",
+            "position": -1,
+            "entry": 93.27,
+            "rsi": [
+                34.95
+            ],
+            "profit%": 0
+        },
+        "SRF": {
+            "timestamp": "05-06 09:29",
+            "position": -1,
+            "entry": 2953.4,
+            "rsi": [
+                37.27
+            ],
+            "profit%": 0
+        },
         "MOTHERSON": {
             "timestamp": "05-05 19:12",
             "position": 1,
             "entry": 139.05,
             "rsi": [
-                68.37
+                68.37,
+                65.55
             ],
             "profit%": 0
         },
         "SHRIRAMFIN": {},
         "SIEMENS": {},
-        "SOLARINDS": {},
+        "SOLARINDS": {
+            "timestamp": "05-06 09:29",
+            "position": 1,
+            "entry": 13387,
+            "rsi": [
+                62.72
+            ],
+            "profit%": 0
+        },
         "SONACOMS": {
             "timestamp": "05-05 19:12",
             "position": 1,
             "entry": 508,
             "rsi": [
-                68.63
+                68.63,
+                65.83
             ],
             "profit%": 0
         },
-        "SBIN": {},
+        "SBIN": {
+            "timestamp": "05-06 09:29",
+            "position": -1,
+            "entry": 785.3,
+            "rsi": [
+                38.04
+            ],
+            "profit%": 0
+        },
         "SAIL": {},
         "SUNPHARMA": {},
         "SUPREMEIND": {},
@@ -646,7 +863,8 @@
             "position": -1,
             "entry": 734.2,
             "rsi": [
-                29.35
+                29.35,
+                24.92
             ],
             "profit%": 0
         },
@@ -655,7 +873,8 @@
             "position": 1,
             "entry": 2780.3,
             "rsi": [
-                62.9
+                62.9,
+                66.75
             ],
             "profit%": 0
         },
@@ -668,8 +887,24 @@
         "TATASTEEL": {},
         "TATATECH": {},
         "TECHM": {},
-        "FEDERALBNK": {},
-        "INDHOTEL": {},
+        "FEDERALBNK": {
+            "timestamp": "05-06 09:29",
+            "position": -1,
+            "entry": 191.32,
+            "rsi": [
+                38.75
+            ],
+            "profit%": 0
+        },
+        "INDHOTEL": {
+            "timestamp": "05-06 09:29",
+            "position": -1,
+            "entry": 777.4,
+            "rsi": [
+                34.75
+            ],
+            "profit%": 0
+        },
         "PHOENIXLTD": {},
         "RAMCOCEM": {},
         "TITAN": {
@@ -677,26 +912,26 @@
             "position": -1,
             "entry": 3318.7,
             "rsi": [
-                38.93
+                38.93,
+                30.73
             ],
             "profit%": 0
         },
         "TORNTPHARM": {},
         "TORNTPOWER": {
-            "timestamp": "05-05 19:12",
-            "position": -1,
-            "entry": 1479,
-            "rsi": [
-                37.29
-            ],
-            "profit%": 0
+            "timestamp": "05-06 09:29",
+            "position": 0,
+            "entry": 1502.1,
+            "rsi": [],
+            "profit%": -1.561866125760643
         },
         "TRENT": {
             "timestamp": "05-05 19:12",
             "position": 1,
             "entry": 5377,
             "rsi": [
-                60.57
+                60.57,
+                58.42
             ],
             "profit%": 0
         },
@@ -705,7 +940,8 @@
             "position": 1,
             "entry": 2982.6,
             "rsi": [
-                73.74
+                73.74,
+                72.76
             ],
             "profit%": 0
         },
@@ -714,37 +950,172 @@
             "position": 1,
             "entry": 687,
             "rsi": [
-                60.35
+                60.35,
+                62.64
             ],
             "profit%": 0
         },
         "ULTRACEMCO": {},
-        "UNIONBANK": {},
+        "UNIONBANK": {
+            "timestamp": "05-06 09:29",
+            "position": -1,
+            "entry": 124.95,
+            "rsi": [
+                38.28
+            ],
+            "profit%": 0
+        },
         "UNITDSPR": {},
         "VBL": {
             "timestamp": "05-05 19:12",
             "position": 1,
             "entry": 540,
             "rsi": [
-                63.45
+                63.45,
+                59.48
             ],
             "profit%": 0
         },
         "VEDL": {},
-        "IDEA": {},
+        "IDEA": {
+            "timestamp": "05-06 09:29",
+            "position": -1,
+            "entry": 7.1,
+            "rsi": [
+                35.68
+            ],
+            "profit%": 0
+        },
         "VOLTAS": {},
         "WIPRO": {},
-        "YESBANK": {},
+        "YESBANK": {
+            "timestamp": "05-06 09:29",
+            "position": 1,
+            "entry": 18.67,
+            "rsi": [
+                74.71
+            ],
+            "profit%": 0
+        },
         "ZYDUSLIFE": {},
         "BTCUSD": {
-            "timestamp": "05-05 19:12",
+            "timestamp": "05-06 09:29",
+            "position": 0,
+            "entry": 94455,
+            "rsi": [],
+            "profit%": -0.7101045964878611
+        }
+    },
+    "closed": [
+        {
+            "stock": "ANGELONE",
+            "timestamp": "05-06 09:28",
+            "position": 1,
+            "entry": 2388.1,
+            "exit": 2356.2,
+            "rsi": [
+                62.65
+            ],
+            "profit%": -1.3357899585444535
+        },
+        {
+            "stock": "ETERNAL",
+            "timestamp": "05-06 09:29",
+            "position": 1,
+            "entry": 240.1,
+            "exit": 237.12,
+            "rsi": [
+                64.36
+            ],
+            "profit%": -1.2411495210328987
+        },
+        {
+            "stock": "HUDCO",
+            "timestamp": "05-06 09:29",
+            "position": 1,
+            "entry": 229.3,
+            "exit": 227.05,
+            "rsi": [
+                61.25
+            ],
+            "profit%": -0.981247274313127
+        },
+        {
+            "stock": "KALYANKJIL",
+            "timestamp": "05-06 09:29",
+            "position": 1,
+            "entry": 528.9,
+            "exit": 521.85,
+            "rsi": [
+                64.56
+            ],
+            "profit%": -1.332955190017008
+        },
+        {
+            "stock": "MARICO",
+            "timestamp": "05-06 09:29",
+            "position": 1,
+            "entry": 726.35,
+            "exit": 718.6,
+            "rsi": [
+                61.14
+            ],
+            "profit%": -1.0669787292627522
+        },
+        {
+            "stock": "NCC",
+            "timestamp": "05-06 09:29",
+            "position": 1,
+            "entry": 221.49,
+            "exit": 219.1,
+            "rsi": [
+                61.94
+            ],
+            "profit%": -1.0790554878324143
+        },
+        {
+            "stock": "ONGC",
+            "timestamp": "05-06 09:29",
+            "position": -1,
+            "entry": 239.88,
+            "exit": 242.1,
+            "rsi": [
+                39.38
+            ],
+            "profit%": -0.9254627313656825
+        },
+        {
+            "stock": "POLICYBZR",
+            "timestamp": "05-06 09:29",
+            "position": 1,
+            "entry": 1673,
+            "exit": 1642,
+            "rsi": [
+                66.73
+            ],
+            "profit%": -1.852958756724447
+        },
+        {
+            "stock": "TORNTPOWER",
+            "timestamp": "05-06 09:29",
+            "position": -1,
+            "entry": 1479,
+            "exit": 1502.1,
+            "rsi": [
+                37.29
+            ],
+            "profit%": -1.561866125760643
+        },
+        {
+            "stock": "BTCUSD",
+            "timestamp": "05-06 09:29",
             "position": -1,
             "entry": 93789,
+            "exit": 94455,
             "rsi": [
                 34.57
             ],
-            "profit%": 0
+            "profit%": -0.7101045964878611
         }
-    },
-    "closed": []
+    ]
 }
